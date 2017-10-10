@@ -41,7 +41,7 @@ export default {
 | stars|Number | no  | 0    |Showed stars when mounted.|
 
 ## Event
-If component has been clicked (starred), you can be infromed by means of this:
+If component has been clicked (starred), you can be informed by means of this:
 ```
 <rating @starred="handleStarred"></rating>
 <script>
