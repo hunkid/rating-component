@@ -8,5 +8,6 @@
     "rating"
   ],
   "author": "Seant",
+  "git repository": "https://github.com/hunkid/rating-component",
   "license": "ISC"
 }
