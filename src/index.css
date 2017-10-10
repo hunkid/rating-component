@@ -1,0 +1,17 @@
+.st-rating {
+  display: inline-block;
+  background-image: url('star.png');
+  background-repeat: no-repeat;
+  height: 20px;
+  width: 92px;
+}
+.st-rated {
+  background-image: url('star.png');
+  background-position: 0 -20px;
+  background-repeat: no-repeat;
+  height: 20px;
+  display: block;
+}
+.cr-pt {
+  cursor: pointer;
+}

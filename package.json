@@ -1,0 +1,12 @@
+{
+  "name": "rating",
+  "version": "1.0.0",
+  "description": "A vue2 component of rating.",
+  "main": "index.js",
+  "keywords": [
+    "Vue2",
+    "rating"
+  ],
+  "author": "Seant",
+  "license": "ISC"
+}
